@@ -1,0 +1,6 @@
+// Örnek Grafik
+digraph {
+	A [label="Başlangıç"]
+	B [label="Bitiş"]
+	A -> B [label="Bağlantı"]
+}
